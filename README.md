@@ -6,9 +6,13 @@ pip install openpyxl
 
 #Features
 > Copies all cell values and formatting
+
 > Preserves cell styles (font, borders, fill, number format)
+
 > Maintains column widths and row heights
+
 > Preserves merged cells
+
 > Handles duplicate sheet names automatically
 
 #Openpyxl documentation
